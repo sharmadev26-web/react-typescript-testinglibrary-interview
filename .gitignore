@@ -12,3 +12,4 @@ assets.json
 id_rsa
 .linaria-cache
 coverage
+package-lock.json
