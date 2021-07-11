@@ -5,7 +5,7 @@
 Clone and install Yarn dependencies:
 
 ```bash
-$ git clone git@github.com:taj-averylane/react-typescript-testinglibrary-interview.git
+$ git clone https://github.com/sharmadev26-web/react-typescript-testinglibrary-interview.git
 $ cd react-typescript-testinglibrary-interview
 $npm install
 $ yarn
